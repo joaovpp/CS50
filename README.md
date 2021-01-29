@@ -1,2 +1,2 @@
 # CS50
-Codes from CS50x
+Codes from CS50x course!
