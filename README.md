@@ -1,2 +1,2 @@
 # CS50
-Codes from CS50x course!
+My resolutions to CS50x probles sets!
